@@ -25,7 +25,7 @@ Or by boring way:
 
 
 <details>
-### <summary>💻 Languages & Tools</summary>
+<summary>### 💻 Languages & Tools</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -64,7 +64,7 @@ export const developer: HumanInterface[] = {
 
 
 <details>
-### <summary>🍻 Support Me</summary>
+<summary>### 🍻 Support Me</summary>
 
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
