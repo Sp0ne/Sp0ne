@@ -1,10 +1,9 @@
 ### Hey 👋🏻,
 
-Hello there, I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 self-taught Full Stack digital developer, who enjoys creating and developing web interface, mobile applications, animations and beautiful designs. I perform active technological monitoring and stay current on standards and languages.
-
-For over 7 years now, I have worked 💻 for French companies such as France24, France Media Monde, Leaders League, Carrieres Juridiques, Resolis, RFI, Ovomaltine, Hydralin, Apec, Loisirs-Reductions, Web Agencies and many small and medium companies.
+Hello there, I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 Full stack developer, who enjoys creating and developing web interface, mobile applications, animations and beautiful designs. I perform active technological monitoring and stay current on standards and languages.
 
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
+
 
 ## 🔗 How to get in touch
 
@@ -17,15 +16,16 @@ npx vinces
 Or by boring way:
 
 - Web: [vinces.io][1]
-- Studio: [In2'Com][6]
 - LinkedIn: [@vinces-][2]
 - Github: [@Sp0ne][3]
 - Bitbucket: [@Sp0ne][4]
 - Npm: [@~sp0ne][5]
+- Studio: [In2'Com][6]
 - Steam: [@sp0ne-][7]
 
 
-## 💻 Languages & Tools
+<details>
+<summary>## 💻 Languages & Tools</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -33,10 +33,10 @@ import { HumanInterface } from '~/domain/model/human.model'
 export const developer: HumanInterface[] = {
   /* Learning in progress on comment keys */
   web: {
-    langages: {
+    languages: {
       current: ['Php', 'Javascript', 'TypeScript', 'Node.js'],
-      other: ['Yaml', 'jQuery', 'TypeScript', 'html5', 'css3',
-              'Leaflet', 'Leaflet', 'Leaflet', 'Leaflet', '...'],
+      others: ['Yaml', 'jQuery', 'TypeScript', 'html5', 'css3',
+              'WebPack', 'Axios', 'too long, boring...'],
     },
     framework: {
       php: ['Symfony', 'Laravel', 'SlimFramework'],
@@ -51,6 +51,7 @@ export const developer: HumanInterface[] = {
     containers: ['Docker'],
     systems: ['Debian', 'Ubuntu', 'Raspberry', 'Windows'],
     webserver: ['Nginx', 'Apache'],
+    tools: ['Git', 'Makefile'],
     /* orchestration: ['Kubernetes'], */
   },
   deployment: ['Capistrano'] /* Kubernetes */,
@@ -59,14 +60,15 @@ export const developer: HumanInterface[] = {
   software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm'],
 }
 ```
+<details>
 
 
-## 🍻 Support Me
+<details>
+<summary>## 🍻 Support Me</summary>
 
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
-- Monero address: `46J2q62HJxk6epfNnmzqedB8TpoHjyM2aRWZi6UN4NLS4HFvKqh2KDxFPn2A6HWCcagBigULRRZTPWjmCBJ83F91LaAqadE`
-
+<details>
 
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
@@ -77,4 +79,3 @@ export const developer: HumanInterface[] = {
 [7]: https://steamcommunity.com/id/sp0ne-
 [8]: https://www.paypal.com/paypalme/vincesio
 [9]: https://www.buymeacoffee.com/vinces
-[10]: 46J2q62HJxk6epfNnmzqedB8TpoHjyM2aRWZi6UN4NLS4HFvKqh2KDxFPn2A6HWCcagBigULRRZTPWjmCBJ83F91LaAqadE
