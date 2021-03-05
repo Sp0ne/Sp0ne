@@ -5,7 +5,7 @@ Hello there, I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 Full stack devel
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 
-## 🔗 How to get in touch
+### 🔗 How to get in touch
 
 **👇 Hit in your terminal to connect with me ([npx vinces](https://github.com/sp0ne/npx-card)).**
 
@@ -25,7 +25,7 @@ Or by boring way:
 
 
 <details>
-<summary>## 💻 Languages & Tools</summary>
+### <summary>💻 Languages & Tools</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -60,15 +60,15 @@ export const developer: HumanInterface[] = {
   software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm'],
 }
 ```
-<details>
+</details>
 
 
 <details>
-<summary>## 🍻 Support Me</summary>
+### <summary>🍻 Support Me</summary>
 
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
-<details>
+</details>
 
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
