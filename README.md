@@ -27,9 +27,6 @@ Or by boring way:
 
 ### 💻 Languages & Tools
 
-<details>
-<summary>👉 Click to expand 👀</summary>
-
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
 
@@ -62,19 +59,14 @@ export const developer: HumanInterface[] = {
   software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm'],
 }
 ```
-</details>
 
 
 ### 🎁 Support Me
 
-<details>
-<summary>👉 Click to expand 👀</summary>
-
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
-</details>
 
-> </> by ❤. Have Fun 🍻
+> 💻 by ❤. Have Fun 🍻
 
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
