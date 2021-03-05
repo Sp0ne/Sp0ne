@@ -24,8 +24,11 @@ Or by boring way:
 - Steam: [@sp0ne-][7]
 
 
+
+### 💻 Languages & Tools
+
 <details>
-<summary>### 💻 Languages & Tools</summary>
+<summary>👉 Click to expand 👀</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -51,24 +54,27 @@ export const developer: HumanInterface[] = {
     containers: ['Docker'],
     systems: ['Debian', 'Ubuntu', 'Raspberry', 'Windows'],
     webserver: ['Nginx', 'Apache'],
-    tools: ['Git', 'Makefile'],
     /* orchestration: ['Kubernetes'], */
   },
   deployment: ['Capistrano'] /* Kubernetes */,
   continuous: ['Bitbucket pipeline'] /* Drone.io */,
-  misc: ['Git', 'Firebase', 'Socket.IO'],
+  misc: ['Git', 'Makefile', 'Firebase', 'Socket.IO'],
   software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm'],
 }
 ```
 </details>
 
 
+### 🎁 Support Me
+
 <details>
-<summary>### 🍻 Support Me</summary>
+<summary>👉 Click to expand 👀</summary>
 
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
 </details>
+
+> </> by ❤. Have Fun 🍻
 
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
