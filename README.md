@@ -11,18 +11,18 @@ Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 ```bash
 npx vinces
+# Or
+npx @vinces/card
 ```
 
 Or by boring way:
 
-- Web: [vinces.io][1]
+- Web: [vinces.io][1] | Studio: [In2'Com][6]
 - LinkedIn: [@vinces-][2]
 - Github: [@Sp0ne][3]
 - Bitbucket: [@Sp0ne][4]
 - Npm: [@~sp0ne][5]
-- Studio: [In2'Com][6]
 - Steam: [@sp0ne-][7]
-
 
 
 ### 💻 Languages & Tools
@@ -34,18 +34,17 @@ export const developer: HumanInterface[] = {
   /* Learning in progress on comment keys */
   web: {
     languages: {
-      current: ['Php', 'Javascript', 'TypeScript', 'Node.js'],
-      others: ['Yaml', 'jQuery', 'TypeScript', 'html5', 'css3',
-              'WebPack', 'Axios', 'too long, boring...'],
+      regular: ['Php', 'Javascript', 'TypeScript', 'Node.js'],
+      others: [ 'Sql', 'Html', 'Css', 'Yaml', 'Sass', 'boring..'],
     },
     framework: {
       php: ['Symfony', 'Laravel', 'SlimFramework'],
-      test: ['PhpUnit', 'Behat'],
+      test: ['PhpUnit', 'Behat', 'Eslint'],
       js: ['Vue.js', 'Nuxt'] /* React */,
-      css: ['Bootstrap', 'Material', 'Vuetify', 'etc..'],
+      css: ['Bootstrap', 'Material', 'Vuetify', '..'],
     },
     databases: ['MySQL', 'MariaDB'] /* Elasticsearch, TypeSense */,
-    cms: ['Wordpress', 'Drupal', 'Prestashop'],
+    cms: ['Wordpress', 'Drupal', 'Prestashop', '..'],
   },
   devOps: {
     containers: ['Docker'],
@@ -55,8 +54,8 @@ export const developer: HumanInterface[] = {
   },
   deployment: ['Capistrano'] /* Kubernetes */,
   continuous: ['Bitbucket pipeline'] /* Drone.io */,
-  misc: ['Git', 'Makefile', 'Firebase', 'Socket.IO'],
-  software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm'],
+  misc: ['Git', 'Makefile', 'Firebase', 'Socket.IO', 'Plesk', '..'],
+  software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm', '..'],
 }
 ```
 
@@ -66,7 +65,20 @@ export const developer: HumanInterface[] = {
 - Buy me a coffee: [@vinces][9]
 - Paypal: [@vincesio][8]
 
-> 💻 by ❤. Have Fun 🍻
+> _💻 by ❤. Have Fun 🍻_
+
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<img src="https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github">
+<img src="https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github">
+<img src="https://badges.pufler.dev/repos/Sp0ne?style=flat-square&color=black&logo=github">
+<img src="https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github">
+<img src="https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github">
+
+</details>
+
 
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
