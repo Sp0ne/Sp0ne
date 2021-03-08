@@ -11,13 +11,12 @@ Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 ```bash
 npx vinces
-# Or
-npx @vinces/card
 ```
 
 Or by boring way:
 
-- Web: [vinces.io][1] | Studio: [In2'Com][6]
+- Web: [vinces.io][1]
+- Studio: [In2'Com][6]
 - LinkedIn: [@vinces-][2]
 - Github: [@Sp0ne][3]
 - Bitbucket: [@Sp0ne][4]
@@ -69,7 +68,9 @@ export const developer: HumanInterface[] = {
 
 
 <details>
+
 <summary>📈 My GitHub Stats</summary>
+
 
 <img src="https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github">
