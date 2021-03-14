@@ -7,7 +7,9 @@ Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 ### 🔗 How to get in touch
 
-**👇 Hit in your terminal to connect with me ([npx vinces](https://github.com/sp0ne/npx-card)).**
+<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card.gif" width="350">
+
+**👇 Hit in your terminal to connect with me ([npx vinces][10]).**
 
 ```bash
 npx vinces
@@ -15,13 +17,13 @@ npx vinces
 
 Or by boring way:
 
-- Web: [vinces.io][1]
-- Studio: [In2'Com][6]
-- LinkedIn: [@vinces-][2]
-- Github: [@Sp0ne][3]
-- Bitbucket: [@Sp0ne][4]
-- Npm: [@~sp0ne][5]
-- Steam: [@sp0ne-][7]
+🖥 [website][1] **|** 
+🐦 [in2com][6] **|** 
+👔 [linkedin][2] **|** 
+🐙 [github][3] **|** 
+🗑 [bitbucket][4] **|** 
+📦 [npm][5] **|** 
+🎮 [steam][7]
 
 
 ### 💻 Languages & Tools
@@ -30,31 +32,32 @@ Or by boring way:
 import { HumanInterface } from '~/domain/model/human.model'
 
 export const developer: HumanInterface[] = {
-  /* Learning in progress on comment keys */
+  /* learning in progress on comment keys */
   web: {
     languages: {
-      regular: ['Php', 'Javascript', 'TypeScript', 'Node.js'],
-      others: [ 'Sql', 'Html', 'Css', 'Yaml', 'Sass', 'boring..'],
+      regular: ['php', 'javascript', 'typescript', 'node.js'],
+      others: [ 'sql', 'html', 'css', 'yaml', 'sass', 'boring..'],
     },
     framework: {
-      php: ['Symfony', 'Laravel', 'SlimFramework'],
-      test: ['PhpUnit', 'Behat', 'Eslint'],
-      js: ['Vue.js', 'Nuxt'] /* React */,
-      css: ['Bootstrap', 'Material', 'Vuetify', '..'],
+      php: ['symfony', 'laravel', 'slimframework'],
+      test: ['phpunit', 'behat', 'eslint'],
+      js: ['vue.js', 'nuxt'] /* react */,
+      css: ['bootstrap', 'material', 'vuetify', '..'],
     },
-    databases: ['MySQL', 'MariaDB'] /* Elasticsearch, TypeSense */,
-    cms: ['Wordpress', 'Drupal', 'Prestashop', '..'],
+    databases: ['mysql', 'mariadb'] /* elasticsearch, typesense */,
+    cms: ['wordpress', 'drupal', 'prestashop', '..'],
   },
-  devOps: {
-    containers: ['Docker'],
-    systems: ['Debian', 'Ubuntu', 'Raspberry', 'Windows'],
-    webserver: ['Nginx', 'Apache'],
-    /* orchestration: ['Kubernetes'], */
+  devops: {
+    containers: ['docker'],
+    systems: ['debian', 'ubuntu', 'raspberry', 'windows'],
+    webserver: ['nginx', 'apache'],
+    /* orchestration: ['kubernetes'], */
   },
-  deployment: ['Capistrano'] /* Kubernetes */,
-  continuous: ['Bitbucket pipeline'] /* Drone.io */,
-  misc: ['Git', 'Makefile', 'Firebase', 'Socket.IO', 'Plesk', '..'],
-  software: ['Adobe CC', '3Ds Max', 'Libre Office', 'PhpStorm', '..'],
+  deployment: ['capistrano'] /* kubernetes */,
+  continuous: ['bitbucket pipeline'] /* drone.io */,
+  misc: ['git', 'makefile', 'firebase', 'socket.io', 'plesk', '..'],
+  software: ['adobe cc', '3ds max', 'libre office', 'phpstorm', '..'],
+  /* ... */
 }
 ```
 
@@ -71,16 +74,23 @@ export const developer: HumanInterface[] = {
 
 <summary>📈 My GitHub Stats</summary>
 
+👇
 
-<img src="https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github">
-<img src="https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github">
-<img src="https://badges.pufler.dev/repos/Sp0ne?style=flat-square&color=black&logo=github">
-<img src="https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github">
-<img src="https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github">
+![b1][b1]
+![b2][b2]
+![b3][b3]
+![b4][b4]
+![b3][b3]
+
+👆
 
 </details>
 
-
+[b1]: https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github
+[b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github
+[b3]: https://badges.pufler.dev/repos/Sp0ne?style=flat-square&color=black&logo=github
+[b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github
+[b3]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
 [3]: https://github.com/Sp0ne
@@ -90,3 +100,4 @@ export const developer: HumanInterface[] = {
 [7]: https://steamcommunity.com/id/sp0ne-
 [8]: https://www.paypal.com/paypalme/vincesio
 [9]: https://www.buymeacoffee.com/vinces
+[10]: https://github.com/sp0ne/npx-card

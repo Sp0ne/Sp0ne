@@ -1,0 +1,16 @@
+# exclude paths
+
+# dependencies
+/node_modules/
+
+# editor
+/.idea/
+.idea/
+.vscode/
+
+# build
+.cache
+dist
+
+# secrets
+.env*
