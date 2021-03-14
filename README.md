@@ -6,6 +6,8 @@ Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 <img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card-small.gif" width="320">
 
+---
+
 ### 🔗 How to get in touch
 
 **👇 Hit in your terminal to connect with me ([npx vinces][10]).**
