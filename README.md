@@ -4,10 +4,9 @@ I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 full-stack developer, who enj
 
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
+<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card-small.gif" width="320">
 
 ### 🔗 How to get in touch
-
-<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card-small.gif" width="320">
 
 **👇 Hit in your terminal to connect with me ([npx vinces][10]).**
 
@@ -15,16 +14,19 @@ Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 npx vinces
 ```
 
-Or by boring way:
+👇 Or by boring way:
 
 🖥 [website][1] **|** 
 🔗 [in2com][6] **|** 
+🎮 [steam][7]
+ 
 👔 [linkedin][2] **|** 
 🐙 [github][3] **|** 
 🗑 [bitbucket][4] **|** 
-📦 [npm][5] **|** 
-🎮 [steam][7]
+📦 [npm][5] 
+ 
 
+---
 
 ### 💻 Languages & Tools
 
