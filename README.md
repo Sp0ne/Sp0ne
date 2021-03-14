@@ -1,13 +1,13 @@
 ### Hey 👋🏻,
 
-Hello there, I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 Full stack developer, who enjoys creating and developing web interface, mobile applications, animations and beautiful designs. I perform active technological monitoring and stay current on standards and languages.
+I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 full-stack developer, who enjoys creating and developing web interface, mobile applications, animations and beautiful designs. I perform active technological monitoring and stay current on standards and languages.
 
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
 
 
 ### 🔗 How to get in touch
 
-<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card.gif" width="350">
+<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card-small.gif" width="320">
 
 **👇 Hit in your terminal to connect with me ([npx vinces][10]).**
 
@@ -18,7 +18,7 @@ npx vinces
 Or by boring way:
 
 🖥 [website][1] **|** 
-🐦 [in2com][6] **|** 
+🔗 [in2com][6] **|** 
 👔 [linkedin][2] **|** 
 🐙 [github][3] **|** 
 🗑 [bitbucket][4] **|** 
