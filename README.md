@@ -68,8 +68,8 @@ export const developer: HumanInterface[] = {
 
 ### 🎁 Support Me
 
-- Buy me a coffee: [@vinces][9]
-- Paypal: [@vincesio][8]
+Buy me a coffee: [@vinces][9]  
+Paypal: [@vincesio][8]  
 
 > _💻 by ❤. Have Fun 🍻_
 
@@ -78,15 +78,16 @@ export const developer: HumanInterface[] = {
 
 <summary>📈 My GitHub Stats</summary>
 
-👇
 
+
+  
 ![b1][b1]
 ![b2][b2]
 ![b3][b3]
 ![b4][b4]
 ![b3][b3]
 
-👆
+
 
 </details>
 
