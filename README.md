@@ -30,7 +30,9 @@ npx vinces
 
 ---
 
-### 💻 Languages & Tools
+<details>
+
+<summary>💻 Languages & Tools</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -65,9 +67,12 @@ export const developer: HumanInterface[] = {
 }
 ```
 
+</details>
+
+
 <details>
  
-### <summary>🎁 Support Me</summary>
+<summary>🎁 Support Me</summary>
 
 Buy me a coffee: [@vinces][9]  
 Paypal: [@vincesio][8]  
@@ -85,10 +90,10 @@ Paypal: [@vincesio][8]
 <summary>📈 My GitHub Stats</summary>
 
 
-![b1][b1]
-![b2][b2]
-![b3][b3]
-![b4][b4]
+![b1][b1] **|** 
+![b2][b2] **|** 
+![b3][b3] **|** 
+![b4][b4] **|** 
 ![b5][b5]
 
 
