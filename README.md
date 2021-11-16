@@ -100,7 +100,7 @@ Paypal: [@vincesio][8]
 [b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github
 [b5]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github
 [1]: https://vinces.io
-[2]: https://www.linkedin.com/in/vinces-
+[2]: https://www.linkedin.com/in/vince-s
 [3]: https://github.com/Sp0ne
 [4]: https://bitbucket.org/Sp0ne/
 [5]: https://www.npmjs.com/~sp0ne
