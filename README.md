@@ -25,8 +25,8 @@ npx vinces
 👔 [linkedin][2] **|** 
 🐙 [github][3] **|** 
 🗑 [bitbucket][4] **|** 
-📦 [npm][5] 
- 
+📦 [npm][5] **|**  
+🧪 [codepen][11]
 
 ---
 
@@ -65,28 +65,31 @@ export const developer: HumanInterface[] = {
 }
 ```
 
-
-### 🎁 Support Me
+<details>
+ 
+<summary>### 🎁 Support Me</summary>
 
 Buy me a coffee: [@vinces][9]  
 Paypal: [@vincesio][8]  
 
+</details>
+
+
+
 > _💻 by ❤. Have Fun 🍻_
 
 
+ 
 <details>
 
 <summary>📈 My GitHub Stats</summary>
 
 
-
-  
 ![b1][b1]
 ![b2][b2]
 ![b3][b3]
 ![b4][b4]
-![b3][b3]
-
+![b5][b5]
 
 
 </details>
@@ -95,14 +98,15 @@ Paypal: [@vincesio][8]
 [b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github
 [b3]: https://badges.pufler.dev/repos/Sp0ne?style=flat-square&color=black&logo=github
 [b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github
-[b3]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github
+[b5]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vinces-
 [3]: https://github.com/Sp0ne
 [4]: https://bitbucket.org/Sp0ne/
 [5]: https://www.npmjs.com/~sp0ne
 [6]: https://in2com.fr
-[7]: https://steamcommunity.com/id/sp0ne-
+[7]: steamcommunity.com/id/-Sp0ne
 [8]: https://www.paypal.com/paypalme/vincesio
 [9]: https://www.buymeacoffee.com/vinces
 [10]: https://github.com/sp0ne/npx-card
+[11]: https://codepen.io/Sp0ne
