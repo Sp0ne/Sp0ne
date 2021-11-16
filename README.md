@@ -79,25 +79,29 @@ Paypal: [@vincesio][8]
 
 </details>
 
-
-
-> _💻 by ❤. Have Fun 🍻_
-
-
  
 <details>
 
 <summary>📈 My GitHub Stats</summary>
 
 
-![b1][b1] **|** 
-![b2][b2] **|** 
-![b3][b3] **|** 
-![b4][b4] **|** 
-![b5][b5]
+- ![b1][b1]
+- ![b2][b2] 
+- ![b3][b3]
+- ![b4][b4]
+- ![b5][b5]
 
 
 </details>
+
+
+---
+
+
+
+> _💻 by ❤. Have Fun 🍻_
+
+
 
 [b1]: https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github
 [b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github
