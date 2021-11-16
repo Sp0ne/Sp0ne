@@ -25,7 +25,7 @@ npx vinces
 👔 [linkedin][2] **|** 
 🐙 [github][3] **|** 
 🗑 [bitbucket][4] **|** 
-📦 [npm][5] **|**  
+📦 [npm][5] **|** 
 🧪 [codepen][11]
 
 ---
@@ -67,7 +67,7 @@ export const developer: HumanInterface[] = {
 
 <details>
  
-<summary>### 🎁 Support Me</summary>
+### <summary>🎁 Support Me</summary>
 
 Buy me a coffee: [@vinces][9]  
 Paypal: [@vincesio][8]  
