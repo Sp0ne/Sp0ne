@@ -114,7 +114,7 @@ Paypal: [@vincesio][8]
 [4]: https://bitbucket.org/Sp0ne/
 [5]: https://www.npmjs.com/~sp0ne
 [6]: https://in2com.fr
-[7]: steamcommunity.com/id/-Sp0ne
+[7]: https://steamcommunity.com/id/-Sp0ne
 [8]: https://www.paypal.com/paypalme/vincesio
 [9]: https://www.buymeacoffee.com/vinces
 [10]: https://github.com/sp0ne/npx-card
