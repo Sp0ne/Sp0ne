@@ -1,38 +1,46 @@
 ### Hey 👋🏻,
 
-I'm [Vince. S.][1], a passionate Frenchie 🇫🇷 full-stack developer, who enjoys creating and developing web interface, mobile applications, animations and beautiful designs. I perform active technological monitoring and stay current on standards and languages.
+I'm **[Vince. S.][1]**, a **passionate Frenchie 🇫🇷 full-stack Developer 🧙‍♂️**, who enjoys creating and developing web interface, mobile applications, animations and beautiful experiences. **Active technological monitoring** 🍃.  
 
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
-
-<img align='right' src="https://raw.githubusercontent.com/Sp0ne/npx-card/main/img/npx-card-small.gif" width="320">
 
 ---
 
 ### 🔗 How to get in touch
 
-**👇 Hit in your terminal to connect with me ([npx vinces][10]).**
+**👇 Hit in your terminal to connect with me ([npx vinces][10]):**
 
 ```bash
 npx vinces
 ```
 
-👇 Or by boring way:
+**👇 Or by boring way:**
 
-🖥 [website][1] **|** 
-🔗 [in2com][6] **|** 
-🎮 [steam][7]
- 
-👔 [linkedin][2] **|** 
-🐙 [github][3] **|** 
-🗑 [bitbucket][4] **|** 
-📦 [npm][5] **|** 
+**〢**
+🖥 [vinces.io][1] **〢** 
+🔗 [in2'com][6] **〢**
+👔 [linkedin][2] **〢**
+🐦 [twitter][12]
+
+**〢**
+🐙 [github][3] **〢**
+🗑 [bitbucket][4] **〢**
+📦 [npm][5] **〢**
 🧪 [codepen][11]
+
+**〢**
+🎮 [steam][7]
+
+**👇 Preview Npx Card: 👀️**
+
+![Drag Racing](https://github.com/Sp0ne/npx-card/blob/main/img/npx-card.gif?raw=true)
 
 ---
 
+
 <details>
 
-<summary>💻 Languages & Tools</summary>
+<summary>✨ See languages & tools i'm using or learning ✨</summary>
 
 ```javascript
 import { HumanInterface } from '~/domain/model/human.model'
@@ -47,12 +55,18 @@ export const developer: HumanInterface[] = {
     framework: {
       php: ['symfony', 'laravel', 'slimframework'],
       test: ['phpunit', 'behat', 'eslint'],
-      js: ['vue.js', 'nuxt'] /* react */,
+      js: ['vue.js', 'nuxt'] /* react, three.js, WebGl */,
       css: ['bootstrap', 'material', 'vuetify', '..'],
     },
     databases: ['mysql', 'mariadb'] /* elasticsearch, typesense */,
     cms: ['wordpress', 'drupal', 'prestashop', '..'],
   },
+  /* 
+  web3: {
+    vr3D: ['webGl', 'three.js'],
+    blockchain: ['solidity', 'truffle', '..'],
+  }, 
+  */
   devops: {
     containers: ['docker'],
     systems: ['debian', 'ubuntu', 'raspberry', 'windows'],
@@ -74,8 +88,8 @@ export const developer: HumanInterface[] = {
  
 <summary>🎁 Support Me</summary>
 
-Buy me a coffee: [@vinces][9]  
-Paypal: [@vincesio][8]  
+- Buy me a coffee: [@vinces][9]
+- Paypal: [@vincesio][8]  
 
 </details>
 
@@ -85,11 +99,11 @@ Paypal: [@vincesio][8]
 <summary>📈 My GitHub Stats</summary>
 
 
-- ![b1][b1]
-- ![b2][b2] 
-- ![b3][b3]
-- ![b4][b4]
-- ![b5][b5]
+![b1][b1] **°**
+![b2][b2] **°**
+![b3][b3] **°**
+![b4][b4] **°**
+![b5][b5]
 
 
 </details>
@@ -99,15 +113,15 @@ Paypal: [@vincesio][8]
 
 
 
-> _💻 by ❤. Have Fun 🍻_
+> _💻 with ❤. (HF 🍻)_
 
 
 
-[b1]: https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&color=black&logo=github
-[b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&color=black&logo=github
-[b3]: https://badges.pufler.dev/repos/Sp0ne?style=flat-square&color=black&logo=github
-[b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&color=black&logo=github
-[b5]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&color=black&logo=github
+[b1]: https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
+[b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
+[b3]: https://badges.pufler.dev/repos/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
+[b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
+[b5]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&labelColor=black&color=green&logo=git
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vince-s
 [3]: https://github.com/Sp0ne
@@ -119,3 +133,4 @@ Paypal: [@vincesio][8]
 [9]: https://www.buymeacoffee.com/vinces
 [10]: https://github.com/sp0ne/npx-card
 [11]: https://codepen.io/Sp0ne
+[12]: https://twitter.com/sp0ne_
