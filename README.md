@@ -1,14 +1,17 @@
 ### Hey 👋🏻,
 
-I'm **[Vince. S.][1]**, a **passionate Frenchie 🇫🇷 full-stack Developer 🧙‍♂️**, who enjoys creating and developing web interface, mobile applications, animations and beautiful experiences. **Active technological monitoring** 🍃.  
+I'm **[Vince. S.][1]**, a **passionate Frenchie 🇫🇷 full-stack Developer 🧙‍♂️**, who enjoys creating and developing web interface,
+mobile applications, animations and beautiful experiences. **Active technological monitoring** 🍃.  
 
 Also I'm a music addict 🎶, roadtriper 🚀, and Taekwondo's 🥋 lovers..
+
+Principles 🧠 : **K**eep **i**t **s**tupid **s**imple 〢 **D**on’t **r**epeat **y**ourself  〢 **C**lean **c**ode
 
 ---
 
 ### 🔗 How to get in touch
 
-**👇 Hit in your terminal to connect with me ([npx vinces][10]):**
+**👇 Hit in your terminal to connect with me ([npx vinces][10]):** _(nothing will be installed)_
 
 ```bash
 npx vinces
@@ -17,21 +20,20 @@ npx vinces
 **👇 Or by boring way:**
 
 **〢**
-🖥 [vinces.io][1] **〢** 
-🔗 [in2'com][6] **〢**
-👔 [linkedin][2] **〢**
-🐦 [twitter][12]
+[🖥 vinces.io][1] **〢** 
+[🔗 in2'com][6] **〢**
+[👔 linkedin][2] **〢**
+[🐦 twitter][12] **〢**
+[🐙 github][3] **〢**
+[🗑 bitbucket][4] **〢**
+[📦 npm][5] **〢**
+[🧪 codepen][11] **〢**
+[🎮 steam][7]
 
 **〢**
-🐙 [github][3] **〢**
-🗑 [bitbucket][4] **〢**
-📦 [npm][5] **〢**
-🧪 [codepen][11]
+👀️ Update side projects soon.
 
-**〢**
-🎮 [steam][7]
-
-**👇 Preview Npx Card: 👀️**
+**👇 Preview Npx Card:**
 
 ![Drag Racing](https://github.com/Sp0ne/npx-card/blob/main/img/npx-card.gif?raw=true)
 
@@ -113,7 +115,7 @@ export const developer: HumanInterface[] = {
 
 
 
-> _💻 with ❤. (HF 🍻)_
+> _💻 with ❤. HF 🍻 !_
 
 
 
