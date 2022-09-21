@@ -33,9 +33,6 @@ npx vinces
 **〢**
 👀️ Update side projects soon.
 
-**👇 Preview Npx Card:**
-
-![Drag Racing](https://github.com/Sp0ne/npx-card/blob/main/img/npx-card.gif?raw=true)
 
 ---
 
@@ -51,24 +48,22 @@ export const developer: HumanInterface[] = {
   /* learning in progress on comment keys */
   web: {
     languages: {
-      regular: ['php', 'javascript', 'typescript', 'node.js'],
+      regular: ['php', 'javascript', 'typescript', 'node.js', 'three.js'],
       others: [ 'sql', 'html', 'css', 'yaml', 'sass', 'boring..'],
     },
     framework: {
       php: ['symfony', 'laravel', 'slimframework'],
       test: ['phpunit', 'behat', 'eslint'],
-      js: ['vue.js', 'nuxt'] /* react, three.js, WebGl */,
+      js: ['vue.js', 'nuxt'] /* react */,
       css: ['bootstrap', 'material', 'vuetify', '..'],
     },
     databases: ['mysql', 'mariadb'] /* elasticsearch, typesense */,
     cms: ['wordpress', 'drupal', 'prestashop', '..'],
-  },
-  /* 
+  }, 
   web3: {
     vr3D: ['webGl', 'three.js'],
-    blockchain: ['solidity', 'truffle', '..'],
+    /* blockchain: ['solidity', 'truffle', '..'], */
   }, 
-  */
   devops: {
     containers: ['docker'],
     systems: ['debian', 'ubuntu', 'raspberry', 'windows'],
@@ -95,35 +90,13 @@ export const developer: HumanInterface[] = {
 
 </details>
 
- 
-<details>
-
-<summary>📈 My GitHub Stats</summary>
-
-
-![b1][b1] **°**
-![b2][b2] **°**
-![b3][b3] **°**
-![b4][b4] **°**
-![b5][b5]
-
-
-</details>
-
 
 ---
-
 
 
 > _💻 with ❤. HF 🍻 !_
 
 
-
-[b1]: https://badges.pufler.dev/visits/Sp0ne/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
-[b2]: https://badges.pufler.dev/years/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
-[b3]: https://badges.pufler.dev/repos/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
-[b4]: https://badges.pufler.dev/gists/Sp0ne?style=flat-square&labelColor=black&color=green&logo=github
-[b5]: https://badges.pufler.dev/commits/monthly/Sp0ne?style=flat-square&labelColor=black&color=green&logo=git
 [1]: https://vinces.io
 [2]: https://www.linkedin.com/in/vince-s
 [3]: https://github.com/Sp0ne
